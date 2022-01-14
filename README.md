@@ -10,10 +10,13 @@ My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from In
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+## Commetative Programing
+![Badege](https://cp-logo.vercel.app/codeforces/KiranChaudhary)
+![Badge](https://cp-logo.vercel.app/codechef/chris537)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Kiranchaudhary537/Kiran-Chaudhary">
