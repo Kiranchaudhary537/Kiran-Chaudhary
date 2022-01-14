@@ -1,7 +1,7 @@
 
 # Hello, folks!
 
-My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from India,currently working at Abhiyanta. You can find me on [![LinkedIn][3.2]][3].
+My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from India,currently working at Abhiyanta.
 
 
 ## 🔧 Technologies & Tools
