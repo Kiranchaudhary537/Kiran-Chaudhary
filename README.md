@@ -2,7 +2,7 @@
 # Hello, folks!
 
 My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from India,currently working at Abhiyanta.
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KiranChaudhary537&label=Views&color=blue&style=plastic" alt="KiranChaudhary" /> </p> -->
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
