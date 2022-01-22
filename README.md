@@ -14,7 +14,7 @@ My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from In
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-## Commetative Programing
+## competitive Programming
 ![Badege](https://cp-logo.vercel.app/codeforces/KiranChaudhary)
 ![Badge](https://cp-logo.vercel.app/codechef/chris537)
 ## &#x1f4c8; GitHub Stats
