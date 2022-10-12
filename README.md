@@ -36,8 +36,8 @@ My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from In
 
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/Kiranchaudhary537
-[3]: https://www.linkedin.com/in/kiran-chaudhary-27ab241bb/
+[2.2]: http://i.imgur.com/9I6NRUm.png [2]: https://github.com/Kiranchaudhary537
+[3]: https://www.linkedin.com/in/kiranchaudhary537/
 
 
 <!-- Resources -->
