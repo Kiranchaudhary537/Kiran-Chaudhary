@@ -1,7 +1,7 @@
 
 # Hello, folks!
 
-My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from India,currently working at Abhiyanta.
+My name is Kiran Chaudhary and I'm a Information Technology Student. I'm from India
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KiranChaudhary537&label=Views&color=blue&style=plastic" alt="KiranChaudhary" /> </p> -->
 
 ## 🔧 Technologies & Tools
